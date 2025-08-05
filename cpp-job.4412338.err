@@ -1,0 +1,7 @@
+[W] overlapping records at chr6:29747433 for sample 0
+[W] Variants that overlap on the reference allele: 4
+[I] Total VCF records:         4000097
+[I] Non-reference VCF records: 4000097
+[I] Total VCF records:         10986
+[I] Non-reference VCF records: 7801
+gzip: HG003_GRCh38_1_22_v4.2.1_benchmark.vcf already exists;	not overwritten
