@@ -26,15 +26,16 @@ threads=20
 #truth_vcf="/mnt/NAS_PROJECT/vol_Phucteam/CONGNGUYEN/SERVICE2025/G4500_DRAGEN_PARABRICKS/3.Giab_ref/HG002/vcf/HG002_GRCh38_1_22_v4.2.1_benchmark.vcf.gz"
 #query_vcf="/mnt/NAS_PROJECT/vol_Phucteam/CONGNGUYEN/SERVICE2025/G4500_DRAGEN_PARABRICKS/2.Parabricks/HG002/MGISEQ2000_PCR-free_NA24385_V100002807_L03/variants/deepvariant/MGISEQ2000_PCR-free_NA24385_V100002807_L03_pbrun_fq2bam_GPU.bam.deepvariant.vcf"
 #sampleID="HG002"
-##HG003
-truth_vcf="/mnt/NAS_PROJECT/vol_Phucteam/CONGNGUYEN/SERVICE2025/G4500_DRAGEN_PARABRICKS/3.Giab_ref/HG003/vcf/HG003_GRCh38_1_22_v4.2.1_benchmark.vcf.gz"
-query_vcf="/mnt/NAS_PROJECT/vol_Phucteam/CONGNGUYEN/SERVICE2025/G4500_DRAGEN_PARABRICKS/2.Parabricks/HG003/MGISEQ2000_PCR-free_NA24149_V100002807_L01/variants/deepvariant/MGISEQ2000_PCR-free_NA24149_V100002807_L01_pbrun_fq2bam_GPU.bam.deepvariant.vcf"
-sampleID="HG003"
 
-# #HG004
-# truth_vcf="/mnt/NAS_PROJECT/vol_Phucteam/CONGNGUYEN/SERVICE2025/G4500_DRAGEN_PARABRICKS/3.Giab_ref/HG004/vcf/HG004_GRCh38_1_22_v4.2.1_benchmark.vcf.gz"
-# query_vcf="/mnt/NAS_PROJECT/vol_Phucteam/CONGNGUYEN/SERVICE2025/G4500_DRAGEN_PARABRICKS/2.Parabricks/HG004/MGISEQ2000_PCR-free_NA24143_1_V100003043_L03/variants/deepvariant/MGISEQ2000_PCR-free_NA24143_1_V100003043_L03_pbrun_fq2bam_GPU.bam.deepvariant.vcf"
-# sampleID="HG004"
+# ##HG003
+# truth_vcf="/mnt/NAS_PROJECT/vol_Phucteam/CONGNGUYEN/SERVICE2025/G4500_DRAGEN_PARABRICKS/3.Giab_ref/HG003/vcf/HG003_GRCh38_1_22_v4.2.1_benchmark.vcf.gz"
+# query_vcf="/mnt/NAS_PROJECT/vol_Phucteam/CONGNGUYEN/SERVICE2025/G4500_DRAGEN_PARABRICKS/2.Parabricks/HG003/MGISEQ2000_PCR-free_NA24149_V100002807_L01/variants/deepvariant/MGISEQ2000_PCR-free_NA24149_V100002807_L01_pbrun_fq2bam_GPU.bam.deepvariant.vcf"
+# sampleID="HG003"
+
+#HG004
+truth_vcf="/mnt/NAS_PROJECT/vol_Phucteam/CONGNGUYEN/SERVICE2025/G4500_DRAGEN_PARABRICKS/3.Giab_ref/HG004/vcf/HG004_GRCh38_1_22_v4.2.1_benchmark.vcf.gz"
+query_vcf="/mnt/NAS_PROJECT/vol_Phucteam/CONGNGUYEN/SERVICE2025/G4500_DRAGEN_PARABRICKS/2.Parabricks/HG004/MGISEQ2000_PCR-free_NA24143_1_V100003043_L03/variants/deepvariant/MGISEQ2000_PCR-free_NA24143_1_V100003043_L03_pbrun_fq2bam_GPU.bam.deepvariant.vcf"
+sampleID="HG004"
 
 ############################################################################################################
 ## REFERENCE LINKS

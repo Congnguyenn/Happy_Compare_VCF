@@ -1,0 +1,7 @@
+Hap.py 
+Benchmarking Summary:
+  Type Filter  TRUTH.TOTAL  TRUTH.TP  TRUTH.FN  QUERY.TOTAL  QUERY.FP  QUERY.UNK  FP.gt  FP.al  METRIC.Recall  METRIC.Precision  METRIC.Frac_NA  METRIC.F1_Score  TRUTH.TOTAL.TiTv_ratio  QUERY.TOTAL.TiTv_ratio  TRUTH.TOTAL.het_hom_ratio  QUERY.TOTAL.het_hom_ratio
+ INDEL    ALL          312       294        18          401        35         63      3      8       0.942308          0.896450        0.157107         0.918807                     NaN                     NaN                   1.462810                   1.717241
+ INDEL   PASS          312       294        18          401        35         63      3      8       0.942308          0.896450        0.157107         0.918807                     NaN                     NaN                   1.462810                   1.717241
+   SNP    ALL         6956      6874        82         7396        62        460     12      3       0.988212          0.991061        0.062196         0.989634                 3.11716                     3.0                   1.606447                   1.582110
+   SNP   PASS         6956      6874        82         7396        62        460     12      3       0.988212          0.991061        0.062196         0.989634                 3.11716                     3.0                   1.606447                   1.582110
